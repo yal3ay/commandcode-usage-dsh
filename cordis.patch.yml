@@ -1,0 +1,6 @@
+# commandcode-usage-dsh · 宿主插件行（bundle patch）
+# 由 dsh.profile.bundles 自动应用；若手动安装，也可以把下面两行直接粘进
+# profile 的 cordis.patch.yml。
+- insert:
+    - id: commandcode-usage-dsh
+      name: 'commandcode-usage-dsh'
